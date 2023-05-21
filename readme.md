@@ -1,5 +1,5 @@
-# Replicate the Following Output
+## Credit Card Landing Page
 
-`Assests are Provided!`
+## my Output
 
 ![Project 7](./Credit%20card%20landing%20page.png)
